@@ -5,12 +5,12 @@ DECOCT is a Blue Team forensic utility designed to preserve the **integrity, tra
 
 It enables investigators and security teams to securely register, verify, and audit both **local and remote (SSH-based) evidence**, while enforcing **Role-Based Access Control (RBAC)** and forensic-aligned security controls.
 
-> ⚠️ Currently supported on Linux systems (Kali, Ubuntu, Parrot OS, etc.)  
-> 🚧 Windows `.exe` version is in active development and will be released soon.
+>  Currently supported on Linux systems (Kali, Ubuntu, Parrot OS, etc.)  
+>  Windows `.exe` version is in active development and will be released soon.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Ensure digital evidence integrity using cryptographic hashing  
 - Maintain defensible chain-of-custody records  
@@ -179,7 +179,7 @@ On first launch:
 
 ---
 
-# 🔄 Evidence Workflow
+# Evidence Workflow
 
 ```
 Login → RBAC Enforcement → Evidence Registration (Local/Remote)
@@ -193,7 +193,7 @@ Audit Logging & Verification
 
 ---
 
-# 🔐 Forensic Design Principles
+# Forensic Design Principles
 
 DECOCT enforces:
 
