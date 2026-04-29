@@ -122,7 +122,7 @@ Additional safeguards:
 
 ---
 
-# 🛡 Compliance Alignment
+#  Compliance Alignment
 
 DECOCT is designed in alignment with:
 
@@ -134,7 +134,7 @@ These alignments support forensic defensibility and audit readiness.
 
 ---
 
-# ⚙ Installation
+#  Installation
 
 ## Requirements
 - Linux operating system
@@ -153,7 +153,7 @@ On startup, DECOCT automatically:
 
 ---
 
-# 🚀 Running DECOCT
+#  Running DECOCT
 
 ```bash
 cd ~/path/to/DECOCT_Folder
@@ -205,7 +205,7 @@ DECOCT enforces:
 
 ---
 
-# 🗺 Roadmap
+#  Roadmap
 
 - Windows standalone `.exe` release (in progress)
 - Database-backed storage option
